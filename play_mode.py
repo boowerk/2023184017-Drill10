@@ -3,7 +3,7 @@ import game_framework
 
 import game_world
 from grass import Grass
-from boy import Boy
+from bird import Boy
 
 # boy = None
 
